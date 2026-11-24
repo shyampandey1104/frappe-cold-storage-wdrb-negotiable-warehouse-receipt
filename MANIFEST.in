@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include wdra_enwr_warehouse *.css
+recursive-include wdra_enwr_warehouse *.csv
+recursive-include wdra_enwr_warehouse *.html
+recursive-include wdra_enwr_warehouse *.ico
+recursive-include wdra_enwr_warehouse *.js
+recursive-include wdra_enwr_warehouse *.json
+recursive-include wdra_enwr_warehouse *.md
+recursive-include wdra_enwr_warehouse *.png
+recursive-include wdra_enwr_warehouse *.py
+recursive-include wdra_enwr_warehouse *.svg
+recursive-include wdra_enwr_warehouse *.txt
+recursive-exclude wdra_enwr_warehouse *.pyc

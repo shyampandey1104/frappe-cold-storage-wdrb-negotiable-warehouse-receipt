@@ -1,0 +1,9 @@
+[
+ {
+  "dt": "Frappe Cold Storage Wdrb Negotiable Warehouse Receipt Entry",
+  "fieldname": "custom_audit_verified",
+  "fieldtype": "Check",
+  "insert_after": "status",
+  "label": "Audit Verified"
+ }
+]
